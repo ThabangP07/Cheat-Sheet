@@ -1,10 +1,16 @@
+body {
+    text-align: center;
+}
+
 .tables {
     border-collapse: collapse; 
     width: 50%;
+    border: 2px solid red;
+    margin: 20px auto;
 }
 
 .table-heads {
-    border: 2px solid black; 
+    border: 1px solid black; 
     padding: 8px;
 }
 
