@@ -1,21 +1,23 @@
 body {
     text-align: center;
+    background-color: lightcyan;
 }
 
 .tables {
     border-collapse: collapse; 
     width: 50%;
-    border: 2px solid red;
+    border: 2px solid lightseagreen;
     margin: 20px auto;
 }
 
 .table-heads {
-    border: 1px solid black; 
+    border: 2px solid lightseagreen; 
     padding: 8px;
+    background-color: turquoise;
 }
 
 .table-data {
-    border: 1px solid black; 
+    border: 1px solid cyan; 
     padding: 8px;
 }
 
