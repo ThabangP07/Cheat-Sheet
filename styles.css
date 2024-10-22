@@ -35,3 +35,9 @@ h3 {
     margin: 20px auto;
 }
 
+.description {
+    background-color: rgb(153, 245, 245);
+    border-radius: 5px;
+    padding: 5px;
+
+}
